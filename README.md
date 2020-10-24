@@ -1,16 +1,13 @@
 <div align="center">
   <br />
   <p>
-    <a href="http://sundeep.nl/codeschool3.png" width="546" alt="CodeSchool" /></a>
+   <a href="https://code-school.nl"><img src="http://sundeep.nl/codeschool3.png" width="546" alt="CodeSchool" /></a>
   </p>
   <br />
   <p>
-    <a href="https://discord.gg/bRCvFy9"><img src="https://discordapp.com/api/guilds/222078108977594368/embed.png" alt="Discord server" /></a>
-    <a href="https://www.npmjs.com/package/discord.js"><img src="https://img.shields.io/npm/v/discord.js.svg?maxAge=3600" alt="NPM version" /></a>
-    <a href="https://www.npmjs.com/package/discord.js"><img src="https://img.shields.io/npm/dt/discord.js.svg?maxAge=3600" alt="NPM downloads" /></a>
-    <a href="https://travis-ci.org/discordjs/discord.js"><img src="https://travis-ci.org/discordjs/discord.js.svg" alt="Build status" /></a>
-    <a href="https://david-dm.org/discordjs/discord.js"><img src="https://img.shields.io/david/discordjs/discord.js.svg?maxAge=3600" alt="Dependencies" /></a>
-    <a href="https://www.patreon.com/discordjs"><img src="https://img.shields.io/badge/donate-patreon-F96854.svg" alt="Patreon" /></a>
+    <a href="https://discord.gg/Tg5k6vF"><img src="https://discord.com/api/guilds/768898592307937321/embed.png" alt="Discord server" /></a>
+    <a href="https://github.io/Sundeep-deJongh"<img src="https://img.shields.io/github/followers/Sundeep-deJongh?style=social" alt="GitHub"</a>
+    <a href="https://www.paypal.me/SundeepDonate"><img src="https://img.shields.io/badge/paypal.svg" alt="Patreon" /></a>
   </p>
   <p>
     <a href="https://nodei.co/npm/node-fetch/"><img src="https://nodei.co/npm/node-fetch.png"></a>
