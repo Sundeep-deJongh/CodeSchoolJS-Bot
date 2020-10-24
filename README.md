@@ -6,8 +6,7 @@
   <br />
   <p>
     <a href="https://discord.gg/Tg5k6vF"><img src="https://discord.com/api/guilds/768898592307937321/embed.png" alt="Discord server" /></a>
-    <a href="https://github.io/Sundeep-deJongh"<img src="https://img.shields.io/github/followers/Sundeep-deJongh?style=social" alt="GitHub"</a>
-    <a href="https://www.paypal.me/SundeepDonate"><img src="https://img.shields.io/badge/paypal.svg" alt="Patreon" /></a>
+    <a href="https://github.io/Sundeep-deJongh"><img src="https://img.shields.io/github/followers/Sundeep-deJongh?style=social" alt="Discord server" /></a>
   </p>
   <p>
     <a href="https://nodei.co/npm/node-fetch/"><img src="https://nodei.co/npm/node-fetch.png"></a>
